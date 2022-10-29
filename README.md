@@ -8,3 +8,11 @@ In AVL Tree, created the class AVLTree<E extends Comparable<E>> and implemented 
 * public String postorder()
 * public String inorder()
 * public String preorder()
+
+In Heap, completed the methods necessary to do the heap algorithm,
+* private static int getParent(int i)
+* private static int getLeft(int i)
+* private static int getRight(int i)
+* public static void maxHeapify(int arr[], int heapSize, int i)
+* public static void buildMaxHeap(int arr[])
+* public static void heapSort(int arr[])
