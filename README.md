@@ -1,6 +1,9 @@
 # DataStructures-and-Algorithms
 
-In Binary Search Tree, completed the methods of inorder, postorder, and level order traversals
+In Binary Search Tree, completed the methods,
+* inorder traversal
+* postorder traversal
+* level order traversal
 
 In AVL Tree, created the class AVLTree<E extends Comparable<E>> and implemented the methods,
 * public void insert(E key)
@@ -23,3 +26,5 @@ In Circular Linear List, completed the methods necessary for the algorithm to wo
 * public void rightInsert(E key)
 * public E deleteLeft()
 * public E deleteRight()
+
+In Minimum Spanning Tree, implemented its algorithm to get the minimum spanning tree of a graph
