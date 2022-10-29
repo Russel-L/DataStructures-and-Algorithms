@@ -16,3 +16,10 @@ In Heap, completed the methods necessary to do the heap algorithm,
 * public static void maxHeapify(int arr[], int heapSize, int i)
 * public static void buildMaxHeap(int arr[])
 * public static void heapSort(int arr[])
+
+In Circular Linear List, completed the methods necessary for the algorithm to work,
+* public String toString()
+* public void leftInsert(E key)
+* public void rightInsert(E key)
+* public E deleteLeft()
+* public E deleteRight()
